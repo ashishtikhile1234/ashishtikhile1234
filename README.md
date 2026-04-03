@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 I am a **Graduate Software Engineer** based in Pune. I recently completed an intensive apprenticeship at **Thinkbridge**, where I gained hands-on experience in building enterprise-grade applications and cloud-native solutions.
 
-- 🚀 **Specialized in:** Java, Spring Boot, React, and the .NET ecosystem.
+- 🚀 **Specialized in:** Java, Spring Boot and React
 - ☁️ **Cloud & DevOps:** Proficient in **Microsoft Azure** and passionate about building automated **CI/CD workflows**.
 - 🛠️ **Philosophy:** I am a strong advocate for **clean code**, maintainable architecture, and following industry best practices.
 - 🎓 **Education:** B.E. in Information Technology (CGPA: 8.55).
@@ -19,9 +19,9 @@ I am a **Graduate Software Engineer** based in Pune. I recently completed an int
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
-| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white) |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) |
 | **Cloud/DevOps** | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
 
 ---
@@ -29,12 +29,12 @@ I am a **Graduate Software Engineer** based in Pune. I recently completed an int
 ### 📂 Key Projects
 
 #### 🔐 DocVault – Secure Document Management
-*Team Project | Angular, .NET Core, Azure, Cosmos DB*
+*Team Project | React, Spring Boot, Azure, Cosmos DB*
 - Developed a secure platform for document storage and serverless processing via **Azure Functions**.
 - Automated the deployment lifecycle using **GitHub Actions** for seamless integration.
 
 #### 📅 Weekly Manager – Task Management
-*Angular, .NET Core, Azure SQL*
+*React, Spring Boot, Azure SQL*
 - Built a full-stack task scheduler deployed on **Azure App Service**.
 - Integrated automated CI/CD pipelines to ensure rapid and reliable delivery.
 
@@ -45,8 +45,10 @@ I am a **Graduate Software Engineer** based in Pune. I recently completed an int
 ---
 
 ### 📊 GitHub Activity
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishtikhile1234&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishtikhile1234&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishtikhile1234&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
