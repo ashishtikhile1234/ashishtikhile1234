@@ -11,7 +11,7 @@ I am a **Graduate Software Engineer** based in Pune. I recently completed an int
 - 🚀 **Specialized in:** Java, Spring Boot and React
 - ☁️ **Cloud & DevOps:** Proficient in **Microsoft Azure** and passionate about building automated **CI/CD workflows**.
 - 🛠️ **Philosophy:** I am a strong advocate for **clean code**, maintainable architecture, and following industry best practices.
-- 🎓 **Education:** B.E. in Information Technology (CGPA: 8.55).
+- 🎓 **Education:** B.E. in Information Technology (CGPA: 8.55)
 
 ---
 
